@@ -1,2 +1,1 @@
-# geotiff2atak
-Tool to convert GeoTIFF files into ATAK-compatible offline maps
+This repository contains the geotiff2atak. Tool designed to convert multiple GeoTIFF raster maps into a package formats, like GPKG, whihc is compatible with ATAK (Android Team Awareness Kit). **Simply put, the tool streamlines offline map creation for ATAK environments.**
